@@ -1,0 +1,7 @@
+Nombre: Daniel Alberto Zapata Castaño 
+
+Edad: 18
+
+Aspiraciones: Aprender a programar en Java y Python bajo el paradigma de la POO
+
+Hay que tener cuidado porque podríamos cambiar cosas con las que otros están trabajando también.
