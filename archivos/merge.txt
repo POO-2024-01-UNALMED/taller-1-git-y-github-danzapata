@@ -1,1 +1,1 @@
-
+No deja hacer el commit de una carpeta vacía.
